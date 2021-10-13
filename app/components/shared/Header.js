@@ -4,8 +4,10 @@ import Navbar from 'react-bootstrap/Navbar';
 
 const alwaysOptions = (
   <Fragment>
-    <Nav.Link href="#home">Home</Nav.Link>
-    <Nav.Link href="#speakers">Speakers</Nav.Link>
+    <Nav.Link href="/home">Home</Nav.Link>
+    <Nav.Link href="/speakers">Speakers</Nav.Link>
+    <Nav.Link href="/about">About</Nav.Link>
+    <Nav.Link href="/schedule">Schedule</Nav.Link>
   </Fragment>
 );
 

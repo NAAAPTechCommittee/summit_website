@@ -7,6 +7,15 @@ const Nav = () => (
     <Button variant="dark">
       <NavLink to="/home">Home</NavLink>
     </Button>
+    <Button>
+      <NavLink to="/about">About</NavLink>
+    </Button>
+    <Button>
+      <NavLink to="/schedule">Schedule</NavLink>
+    </Button>
+    <Button>
+      <NavLink to="/speakers">Speakers</NavLink>
+    </Button>
   </nav>
 );
 
