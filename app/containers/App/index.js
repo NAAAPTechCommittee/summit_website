@@ -13,8 +13,8 @@ import { Switch, Route } from 'react-router-dom';
 import HomePage from 'containers/HomePage/Loadable';
 import NotFoundPage from 'containers/NotFoundPage/Loadable';
 import About from '../../components/About';
-import Schedule from '../../components/Speakers';
-import Speakers from '../../components/Schedule';
+import Schedule from '../../components/Schedule';
+import Speakers from '../../components/Speakers';
 import Header from '../../components/shared/Header';
 
 import GlobalStyle from '../../global-styles';
