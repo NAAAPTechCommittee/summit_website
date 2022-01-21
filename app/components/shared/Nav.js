@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom';
 import Button from 'react-bootstrap/Button';
 
 const Nav = () => (
-  <nav className="buttoins">
+  <nav className="buttons">
     <Button variant="dark">
       <NavLink to="/home">Home</NavLink>
     </Button>
